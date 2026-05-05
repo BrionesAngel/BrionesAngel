@@ -15,6 +15,7 @@
 🎮 **Game Development**
 
 [![LibGDX](https://img.shields.io/badge/-LibGDX-000000?style=flat&logo=java&logoColor=white)](https://libgdx.com/)
+[![Godot](https://img.shields.io/badge/-Godot-478CBF?style=flat&logo=godotengine&logoColor=white)](https://godotengine.org/)
 
 💻 **Languages**
 
