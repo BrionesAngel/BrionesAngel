@@ -39,7 +39,7 @@
 <div align="center">
 
 ![Stats](https://github-readme-stats-sandy-tau-42.vercel.app/api?username=BrionesAngel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats-sandy-tau-42.vercel.app/api/top-langs/?username=BrionesAngel&layout=compact&theme=algolia&langs_count=8)
+![Top Langs](https://github-readme-stats-sandy-tau-42.vercel.app/api/top-langs/?username=BrionesAngel&layout=compact&theme=algolia&langs_count=8&hide=c%2B%2B)
 
 </div>
 
